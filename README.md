@@ -55,20 +55,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=🎨+Creative+Side+🎨" />
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="400">
-</div>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=500&color=C77DFF&center=true&vCenter=true&multiline=true&width=800&height=80&lines=💫+Designing+interactive+visuals+%26+AI-generated+art;🌈+Creating+animations%2C+digital+effects+%26+data-driven+stories;🎶+Finding+flow+in+code%2C+color%2C+and+creativity" />
-</p>
-
 ---
 
 <div align="center">
@@ -113,22 +99,6 @@
   <a href="mailto:divyaa8184@gmail.com">
     <img src="https://img.shields.io/badge/Email-C77DFF?style=for-the-badge&logo=gmail&logoColor=0D1117&labelColor=00D9FF"/>
   </a>
-</p>
-
----
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=✨+Quote+I+Live+By+✨" />
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300">
-</div>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=2000&color=C77DFF&center=true&vCenter=true&width=800&lines=%22Where+logic+ends%2C+imagination+begins+—;and+AI+connects+them+both.%22+🌌💻" />
 </p>
 
 ---
