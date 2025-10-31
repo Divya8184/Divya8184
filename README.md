@@ -4,13 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=42&duration=2500&pause=800&color=00D9FF&background=0D111700&center=true&vCenter=true&multiline=true&width=800&height=120&lines=✨+Welcome+to+My+Digital+Universe+✨;I'm+Divya+Jangra+💫;🚀+AI+Innovator+%7C+Tech+Visionary+🌟;🎨+Crafting+Tomorrow's+Intelligence+Today+🤖" />
 </h1>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</div>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-</p>
 
 ---
 
@@ -18,9 +12,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=header&text=&fontColor=ffffff&animation=fadeIn" />
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600">
-</div>
+
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
@@ -44,9 +36,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="500">
-</div>
+
 
 ### <div align="center"><img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="30"> Languages & Frameworks <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="30"></div>
 <p align="center">
@@ -87,9 +77,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
-</div>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Divya8184&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B9D&text_color=FFFFFF" height="165" />
@@ -100,9 +88,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Divya8184&theme=react-dark&bg_color=0D1117&color=00D9FF&line=FF6B9D&point=FFFFFF&hide_border=true" width="95%"/>
 </p>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300">
-</div>
+
 
 ---
 
@@ -147,14 +133,9 @@
 
 ---
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="900">
-</div>
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=footer&text=&fontColor=ffffff&animation=fadeIn" />
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</div>
