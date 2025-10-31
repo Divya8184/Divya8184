@@ -27,17 +27,17 @@
 
 ## 🧩 Skills & Tech Stack
 
-### 💻 Languages & Frameworks  
+### 💻 Languages & Frameworks
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,html,css,react,nodejs&theme=dark" />
 </p>
 
-### 🤖 AI & Data Science  
+### 🤖 AI & Data Science
 <p align="center">
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn,jupyter&theme=dark" />
 </p>
 
-### ⚙️ Tools & Platforms  
+### ⚙️ Tools & Platforms
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma,blender&theme=dark" />
 </p>
@@ -57,12 +57,12 @@
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DivyaJangra8184&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF00FF&icon_color=FF00FF" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DivyaJangra8184&theme=tokyonight&hide_border=true&background=0D1117&ring=FF00FF&fire=FF00FF&currStreakLabel=FF00FF" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Divya8184&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF00FF&icon_color=FF00FF" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Divya8184&theme=tokyonight&hide_border=true&background=0D1117&ring=FF00FF&fire=FF00FF&currStreakLabel=FF00FF" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DivyaJangra8184&theme=react-dark&bg_color=0D1117&color=FF00FF&line=FF00FF&point=FFFFFF&hide_border=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Divya8184&theme=react-dark&bg_color=0D1117&color=FF00FF&line=FF00FF&point=FFFFFF&hide_border=true" width="95%"/>
 </p>
 
 ---
@@ -73,7 +73,7 @@
   <a href="https://www.linkedin.com/in/divya-jangra-091b6632a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BLmv68uuxS%2BSeucNwoknoaQ%3D%3D" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-FF00FF?style=for-the-badge&logo=linkedin&logoColor=0D1117"/>
   </a>
-  <a href="https://github.com/DivyaJangra8184" target="_blank">
+  <a href="https://github.com/Divya8184" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-FF00FF?style=for-the-badge&logo=github&logoColor=0D1117"/>
   </a>
   <a href="mailto:divyaa8184@gmail.com">
