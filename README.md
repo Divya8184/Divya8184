@@ -101,11 +101,4 @@
   </a>
 </p>
 
----
-
-
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=footer&text=&fontColor=ffffff&animation=fadeIn" />
-</div>
 
