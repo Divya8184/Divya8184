@@ -1,12 +1,8 @@
 <!-- 💫 Divya Jangra | Futuristic AI & Tech Explorer | Neon-Themed GitHub Profile -->
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=42&duration=2500&pause=800&color=00D9FF&background=0D111700&center=true&vCenter=true&multiline=true&width=800&height=120&lines=✨+Welcome+to+My+Digital+Universe+✨;I'm+Divya+Jangra+💫;🚀+AI+Innovator+%7C+Tech+Visionary+🌟;🎨+Crafting+Tomorrow's+Intelligence+Today+🤖" />
-</h1>
 
 
 
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=header&text=&fontColor=ffffff&animation=fadeIn" />
